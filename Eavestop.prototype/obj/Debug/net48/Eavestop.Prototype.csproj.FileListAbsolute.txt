@@ -1,0 +1,10 @@
+R:\GitHub\EaveStop\Eavestop.prototype\bin\Debug\net48\Eavestop.Prototype.exe.config
+R:\GitHub\EaveStop\Eavestop.prototype\bin\Debug\net48\Eavestop.Prototype.exe
+R:\GitHub\EaveStop\Eavestop.prototype\bin\Debug\net48\Eavestop.Prototype.pdb
+R:\GitHub\EaveStop\Eavestop.prototype\obj\Debug\net48\Eavestop.Prototype.csproj.AssemblyReference.cache
+R:\GitHub\EaveStop\Eavestop.prototype\obj\Debug\net48\Eavestop.Prototype.GeneratedMSBuildEditorConfig.editorconfig
+R:\GitHub\EaveStop\Eavestop.prototype\obj\Debug\net48\Eavestop.Prototype.AssemblyInfoInputs.cache
+R:\GitHub\EaveStop\Eavestop.prototype\obj\Debug\net48\Eavestop.Prototype.AssemblyInfo.cs
+R:\GitHub\EaveStop\Eavestop.prototype\obj\Debug\net48\Eavestop.Prototype.csproj.CoreCompileInputs.cache
+R:\GitHub\EaveStop\Eavestop.prototype\obj\Debug\net48\Eavestop.Prototype.exe
+R:\GitHub\EaveStop\Eavestop.prototype\obj\Debug\net48\Eavestop.Prototype.pdb

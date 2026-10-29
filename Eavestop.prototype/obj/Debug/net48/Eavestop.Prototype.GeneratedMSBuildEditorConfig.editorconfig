@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Eavestop.Prototype
+build_property.ProjectDir = R:\GitHub\EaveStop\Eavestop.prototype\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
